@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\UnityAVD\AVD\AVD" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="ADV" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="CharacterController2D.cs" t="Include" />
+            <e p="PlayerController2D.cs" t="Include" />
+            <e p="PlayerShooter2D.cs" t="Include" />
+            <e p="Projectile.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Creator Kit - Beginner Code" t="Include">
+          <e p="Art" t="Include">
+            <e p="Fonts" t="Include">
+              <e p="Rye" t="Include">
+                <e p="OFL.txt" t="Include" />
+              </e>
+            </e>
+            <e p="Shaders" t="Include">
+              <e p="Billboard.shader" t="Include" />
+              <e p="SeeThrough.shader" t="Include" />
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="AddHealthUsageEffect.cs" t="Include" />
+            <e p="AnimationControllerDispatcher.cs" t="Include" />
+            <e p="Audio" t="Include">
+              <e p="AmbiencePlayer.cs" t="Include" />
+              <e p="CharacterAudio.cs" t="Include" />
+              <e p="RandomBGMPlayer.cs" t="Include" />
+              <e p="SFXManager.cs" t="Include" />
+            </e>
+            <e p="CameraController.cs" t="Include" />
+            <e p="Characters" t="Include">
+              <e p="Player" t="Include">
+                <e p="AttackState.cs" t="Include" />
+                <e p="CharacterControl.cs" t="Include" />
+              </e>
+              <e p="SimpleEnemyController.cs" t="Include" />
+              <e p="TrainingDummy.cs" t="Include" />
+            </e>
+            <e p="CharacterSystem" t="Include">
+              <e p="BaseElementalEffect.cs" t="Include" />
+              <e p="CharacterData.cs" t="Include" />
+              <e p="EquipmentSystem.cs" t="Include" />
+              <e p="InventorySystem.cs" t="Include" />
+              <e p="StatSystem.cs" t="Include" />
+            </e>
+            <e p="Editor" t="Include">
+              <e p="CreateScriptEditor.cs" t="Include" />
+              <e p="DocUnzip" t="Include">
+                <e p="OpenDocumentation.cs" t="Include" />
+              </e>
+              <e p="SampleEquipmentEffect.txt" t="Include" />
+              <e p="SampleInteractableObject.txt" t="Include" />
+              <e p="SampleItemEffect.txt" t="Include" />
+              <e p="SampleWeaponEffect.txt" t="Include" />
+              <e p="SaveScriptState.cs" t="Include" />
+              <e p="VFXDBEditor.cs" t="Include" />
+            </e>
+            <e p="GameplayObject" t="Include">
+              <e p="BreakableObject.cs" t="Include" />
+              <e p="Container.cs" t="Include" />
+              <e p="Loot.cs" t="Include" />
+              <e p="LootSpawner.cs" t="Include" />
+              <e p="SpawnPoint.cs" t="Include" />
+            </e>
+            <e p="HighlightableObject.cs" t="Include" />
+            <e p="InteractableObject.cs" t="Include" />
+            <e p="Items" t="Include">
+              <e p="Effects" t="Include">
+                <e p="ApplyBurnWeaponEffect.cs" t="Include" />
+                <e p="IncreaseStrengthEffect.cs" t="Include" />
+                <e p="StatChangeEquipEffect.cs" t="Include" />
+                <e p="VampiricWeaponEffect.cs" t="Include" />
+              </e>
+              <e p="EquipmentItem.cs" t="Include" />
+              <e p="Item.cs" t="Include" />
+              <e p="UsableItem.cs" t="Include" />
+              <e p="Weapon.cs" t="Include" />
+            </e>
+            <e p="ResourceManager.cs" t="Include" />
+            <e p="Tutorial" t="Include">
+              <e p="SpawnerSample.cs" t="Include" />
+            </e>
+            <e p="UI" t="Include">
+              <e p="DamageUI.cs" t="Include" />
+              <e p="EffectIconUI.cs" t="Include" />
+              <e p="EquipmentUI.cs" t="Include" />
+              <e p="InventoryCharacterRender.cs" t="Include" />
+              <e p="InventoryUI.cs" t="Include" />
+              <e p="ItemEntryUI.cs" t="Include" />
+              <e p="ItemTooltip.cs" t="Include" />
+              <e p="LootUI.cs" t="Include" />
+              <e p="UISystem.cs" t="Include" />
+            </e>
+            <e p="Utility" t="Include">
+              <e p="Helpers.cs" t="Include" />
+              <e p="RandomLoopOffset.cs" t="Include" />
+              <e p="SceneLinkSMB.cs" t="Include" />
+              <e p="UIAlphaRaycast.cs" t="Include" />
+            </e>
+            <e p="VFXDatabase.cs" t="Include" />
+            <e p="VFXManager.cs" t="Include" />
+            <e p="VFXTypes.cs" t="Include" />
+          </e>
+        </e>
+        <e p="CreatorKit_BeginnerCode_Third-PartyNotice.txt" t="Include" />
+        <e p="csc.rsp" t="Include" />
+        <e p="TutorialInfo" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Editor" t="Include">
+              <e p="ReadmeEditor.cs" t="Include" />
+            </e>
+            <e p="Readme.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="AVD.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\delga\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\delga\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_AVD.-1284232340.00" t="ExcludeRecursive" />
+  </component>
+</project>

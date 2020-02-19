@@ -13,7 +13,7 @@ public class PlayerController2D : MonoBehaviour
     [SerializeField] bool jump = false;
     [SerializeField]  bool crouch = false;
     public float Gravity2D = -30f;
-
+    public int FacingRight => controller.m_FacingRight ? 1 : -1;
     private void ChangeGravity(float g)
     {
     }
