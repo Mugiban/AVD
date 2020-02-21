@@ -8,4 +8,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/ADV/Scenes/MAIN2019V.unity
     guid: 1ffa77a7b7c2e9b4b8979f9525b129a1
+  - enabled: 1
+    path: Assets/ADV/Scenes/MainMenu.unity
+    guid: 505ae90a026444749a3d9280142d5d04
+  - enabled: 1
+    path: Assets/ADV/Scenes/SunnyLand.unity
+    guid: 6f1e1550f4e3903479ea3830937bd3c9
   m_configObjects: {}

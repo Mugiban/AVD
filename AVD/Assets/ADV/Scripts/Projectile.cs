@@ -26,11 +26,6 @@ public class Projectile : MonoBehaviour
         }
     }
 
-    private void OnTriggerEnter2D(Collider2D other)
-    {
-
-    }
-
     public void SetDirection(int playerControllerFacingRight)
     {
         horizontal = playerControllerFacingRight;

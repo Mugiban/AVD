@@ -1,12 +1,13 @@
 ﻿
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class PlayerController2D : MonoBehaviour
 {
-    public CharacterController2D controller;
-    public Animator animator;
+    private CharacterController2D controller;
+    private Animator animator;
 
     public float runSpeed = 40f;
     float horizontalMove = 0f;
@@ -14,6 +15,14 @@ public class PlayerController2D : MonoBehaviour
     [SerializeField]  bool crouch = false;
     public float Gravity2D = -30f;
     public int FacingRight => controller.m_FacingRight ? 1 : -1;
+
+    private BoxCollider2D boxTopCollider;
+
+    private void Awake()
+    {
+        boxTopCollider = GetComponent<BoxCollider2D>();
+    }
+
     private void ChangeGravity(float g)
     {
     }
@@ -37,14 +46,17 @@ public class PlayerController2D : MonoBehaviour
             animator.SetBool("IsJumping", true);
         }
 
-        if (Input.GetButtonDown("Crouch"))
+        if (Input.GetButton("Crouch"))
         {
+            animator.SetBool("IsCrouching", true);
             crouch = true;
         }
         else if (Input.GetButtonUp("Crouch"))
         {
+            animator.SetBool("IsCrouching", false);
             crouch = false;
         }
+        
     }
 
     public void OnLanding()
@@ -54,7 +66,7 @@ public class PlayerController2D : MonoBehaviour
 
     public void OnCrouching(bool isCrouching)
     {
-        animator.SetBool("IsCrouching", isCrouching);
+        //animator.SetBool("IsCrouching", crouch);
     }
 
     void FixedUpdate()

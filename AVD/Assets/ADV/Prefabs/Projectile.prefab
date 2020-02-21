@@ -148,7 +148,7 @@ MonoBehaviour:
   moveSpeed: 23
   collisionMask:
     serializedVersion: 2
-    m_Bits: 66560
+    m_Bits: 65536
 --- !u!95 &1424745903
 Animator:
   serializedVersion: 3
