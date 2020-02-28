@@ -4,29 +4,24 @@
     <list default="true" id="39c74bba-d3ac-46bc-b2e4-bca9f5d872b8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AVD/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AVD/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AVD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AVD/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ADV/Animation/ButtonAnim.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ADV/Animation/ButtonAnim.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ADV/Animation/PlayerAnimation.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ADV/Animation/PlayerAnimation.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ADV/Animation/ShowButton.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ADV/Animation/ShowButton.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ADV/Animation/bird_0.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ADV/Animation/bird_0.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ADV/Prefabs/Projectile.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ADV/Prefabs/Projectile.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ADV/Animation/Gem.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ADV/Animation/Gem.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ADV/Animation/GemPickUP.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ADV/Animation/GemPickUP.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ADV/Prefabs/Gem.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ADV/Prefabs/Gem.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ADV/Scenes/MainMenu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ADV/Scenes/MainMenu.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ADV/Scenes/SunnyLand.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ADV/Scenes/SunnyLand.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ADV/Scripts/CharacterController2D.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ADV/Scripts/CharacterController2D.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ADV/Scripts/PlayerController2D.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ADV/Scripts/PlayerController2D.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ADV/Scripts/PickUp.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ADV/Scripts/PickUp.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ADV/Scripts/PlayerShooter2D.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ADV/Scripts/PlayerShooter2D.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ADV/Scripts/Projectile.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ADV/Scripts/Projectile.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sunnyland/artwork/Sprites/Items/gem/gem-1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sunnyland/artwork/Sprites/Items/gem/gem-1.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sunnyland/artwork/Sprites/Items/gem/gem-2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sunnyland/artwork/Sprites/Items/gem/gem-2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sunnyland/artwork/Sprites/Items/gem/gem-3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sunnyland/artwork/Sprites/Items/gem/gem-3.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sunnyland/artwork/Sprites/Items/gem/gem-4.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sunnyland/artwork/Sprites/Items/gem/gem-4.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sunnyland/artwork/Sprites/Items/gem/gem-5.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sunnyland/artwork/Sprites/Items/gem/gem-5.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sunnyland/artwork/Sprites/player/jump/Player_Crouch.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sunnyland/artwork/Sprites/player/jump/Player_Crouch.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.settings-manager/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.settings-manager/Settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ADV/Scripts/PointsUI.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ADV/Scripts/PointsUI.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sunnyland/artwork/Sprites/Items/cherry/cherry-1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sunnyland/artwork/Sprites/Items/cherry/cherry-1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sunnyland/artwork/Sprites/Items/cherry/cherry-2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sunnyland/artwork/Sprites/Items/cherry/cherry-2.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sunnyland/artwork/Sprites/Items/cherry/cherry-3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sunnyland/artwork/Sprites/Items/cherry/cherry-3.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sunnyland/artwork/Sprites/Items/cherry/cherry-4.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sunnyland/artwork/Sprites/Items/cherry/cherry-4.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sunnyland/artwork/Sprites/Items/cherry/cherry-5.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sunnyland/artwork/Sprites/Items/cherry/cherry-5.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sunnyland/artwork/Sprites/Items/cherry/cherry-6.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sunnyland/artwork/Sprites/Items/cherry/cherry-6.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sunnyland/artwork/Sprites/Items/cherry/cherry-7.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sunnyland/artwork/Sprites/Items/cherry/cherry-7.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.probuilder/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.probuilder/Settings.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,19 +31,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/ADV/Scripts/PlayerShooter2D.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ADV/Scripts/Projectile.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/ADV/Scripts/PlayerController2D.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/ADV/Scripts/PickUp.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ADV/Scripts/PlayerShooter2D.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ADV/Scripts/CharacterController2D.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/ADV/Scripts/PlayButton.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ADV/Scripts/PlayMusicOnStart.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ADV/Scripts/PlayerController2D.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ADV/Scripts/PointsUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ADV/Scripts/PlayButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ADV/Scripts/PickUp.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/ADV/Scripts/PlayerShooter2D.cs" />
         <option value="$PROJECT_DIR$/Assets/ADV/Scripts/PlayButton.cs" />
         <option value="$PROJECT_DIR$/Assets/ADV/Scripts/PlayMusicOnStart.cs" />
         <option value="$PROJECT_DIR$/Assets/ADV/Scripts/Projectile.cs" />
@@ -56,45 +50,51 @@
         <option value="$PROJECT_DIR$/Assets/ADV/Scripts/PlayerController2D.cs" />
         <option value="$PROJECT_DIR$/Assets/PickUp.cs" />
         <option value="$PROJECT_DIR$/Assets/ADV/Scripts/PointsUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/ADV/Scripts/PlayerShooter2D.cs" />
         <option value="$PROJECT_DIR$/Assets/ADV/Scripts/PickUp.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1Y1x57mAGSfx95n79qkRUT6rNJa" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.4" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
-      <option name="userSelectedPid" value="false" />
       <method v="2" />
     </configuration>
     <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
-      <option name="userSelectedPid" value="false" />
       <method v="2" />
     </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -108,6 +108,7 @@
       <updated>1582123717614</updated>
       <workItem from="1582123725962" duration="3283000" />
       <workItem from="1582300779673" duration="6319000" />
+      <workItem from="1582904632993" duration="1384000" />
     </task>
     <servers />
   </component>
@@ -128,9 +129,6 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
