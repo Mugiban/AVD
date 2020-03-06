@@ -27,9 +27,9 @@ public class PointsUI : MonoBehaviour
         PickUp.OnPickUp -= UpdateUI;
     }
 
-    private void UpdateUI()
+    private void UpdateUI(int points)
     {
-        pointsCounter++;
+        pointsCounter += points;
         textMesh.text = pointsCounter + "";
     }
 }
