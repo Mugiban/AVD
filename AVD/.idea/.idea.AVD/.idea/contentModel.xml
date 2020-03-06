@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\delga\.Rider2019.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\delga\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_AVD.-1709843080.00" t="ExcludeRecursive" />
-    <e p="D:\Unity Projects\AVD\AVD" t="IncludeRecursive">
+    <e p="C:\UnityAVD\AVD\AVD" t="IncludeRecursive">
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
@@ -17,6 +15,11 @@
             <e p="PlayMusicOnStart.cs" t="Include" />
             <e p="PointsUI.cs" t="Include" />
             <e p="Projectile.cs" t="Include" />
+          </e>
+          <e p="Turret" t="Include">
+            <e p="Turret.cs" t="Include" />
+            <e p="TurretShot.cs" t="Include" />
+            <e p="TurretSpawner.cs" t="Include" />
           </e>
         </e>
         <e p="Creator Kit - Beginner Code" t="Include">
@@ -159,5 +162,7 @@
       <e p="Packages" t="ExcludeRecursive" />
       <e p="Temp\bin" t="ExcludeRecursive" />
     </e>
+    <e p="C:\Users\delga\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\delga\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_AVD.-1284232340.00" t="ExcludeRecursive" />
   </component>
 </project>
