@@ -2,29 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39c74bba-d3ac-46bc-b2e4-bca9f5d872b8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.AVD/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AVD/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.AVD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AVD/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ADV/Animation/ButtonAnim.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ADV/Animation/ButtonAnim.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ADV/Animation/PlayerAnimation.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ADV/Animation/PlayerAnimation.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ADV/Animation/ShowButton.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ADV/Animation/ShowButton.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ADV/Animation/bird_0.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ADV/Animation/bird_0.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ADV/Prefabs/Projectile.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ADV/Prefabs/Projectile.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ADV/Scenes/MainMenu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ADV/Scenes/MainMenu.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ADV/Scenes/SunnyLand.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ADV/Scenes/SunnyLand.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ADV/Scripts/CharacterController2D.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ADV/Scripts/CharacterController2D.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ADV/Scripts/PlayerController2D.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ADV/Scripts/PlayerController2D.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ADV/Scripts/PlayerShooter2D.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ADV/Scripts/PlayerShooter2D.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ADV/Scripts/Projectile.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ADV/Scripts/Projectile.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sunnyland/artwork/Sprites/Items/gem/gem-1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sunnyland/artwork/Sprites/Items/gem/gem-1.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sunnyland/artwork/Sprites/Items/gem/gem-2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sunnyland/artwork/Sprites/Items/gem/gem-2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sunnyland/artwork/Sprites/Items/gem/gem-3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sunnyland/artwork/Sprites/Items/gem/gem-3.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sunnyland/artwork/Sprites/Items/gem/gem-4.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sunnyland/artwork/Sprites/Items/gem/gem-4.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sunnyland/artwork/Sprites/Items/gem/gem-5.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sunnyland/artwork/Sprites/Items/gem/gem-5.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sunnyland/artwork/Sprites/player/jump/Player_Crouch.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sunnyland/artwork/Sprites/player/jump/Player_Crouch.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.settings-manager/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.settings-manager/Settings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AVD/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AVD/.idea/indexLayout.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -107,7 +85,7 @@
       <option name="presentableId" value="Default" />
       <updated>1582123717614</updated>
       <workItem from="1582123725962" duration="3283000" />
-      <workItem from="1582300779673" duration="6319000" />
+      <workItem from="1582300779673" duration="6320000" />
     </task>
     <servers />
   </component>
