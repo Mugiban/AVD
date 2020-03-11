@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Random = UnityEngine.Random;
 
 namespace Turret
 {
@@ -13,8 +14,9 @@ namespace Turret
         public Transform[] turretShotPositionsRight;
         public Transform topObject;
 
+        public float turretLifeTime = 8f;
         private bool canShoot;
-        private float refireTime = 0.3f;
+        [SerializeField] private float refireTime = 0.3f;
         private float refireTimer = 0;
 
         private void Awake()
@@ -26,7 +28,15 @@ namespace Turret
         private void Start()
         {
             refireTimer = 0;
+            transform.localRotation = RandomRotation();
             StartCoroutine(StopTurret());
+        }
+
+        private Quaternion RandomRotation()
+        {
+            var randomY = Random.Range(0, 360);
+            Vector3 eulerAngles = new Vector3(0, randomY, 0);
+            return Quaternion.Euler(eulerAngles);
         }
 
         public void StartShooting()
@@ -37,9 +47,10 @@ namespace Turret
         private IEnumerator StopTurret()
         {
             
-            yield return new WaitForSeconds(10f);
+            yield return new WaitForSeconds(turretLifeTime);
             canShoot = false;
             animator.SetBool("shooting", false);
+            StopAllCoroutines();
             Destroy(gameObject, 0.75f);
         }
 

@@ -7,7 +7,7 @@ namespace Turret
 {
     public class TurretSpawner : MonoBehaviour
 {
-    public Turret turretPrefab;
+    public GameObject turretPrefab;
     private void Update()
     {
         var ray = Camera.main.ScreenPointToRay(Input.mousePosition);

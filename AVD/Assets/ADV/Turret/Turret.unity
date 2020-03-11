@@ -450,7 +450,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d728e0e506a46e5438eaa35b91517b24, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  turretPrefab: {fileID: 3369644634233804551, guid: e4c1e0e8fac0ce4458b7201de0b97ab0,
+  turretPrefab: {fileID: 6765124516122316298, guid: e4c1e0e8fac0ce4458b7201de0b97ab0,
     type: 3}
 --- !u!4 &2118599815
 Transform:
@@ -464,7 +464,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &3369644635801766256
 PrefabInstance:
@@ -473,35 +473,30 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 2495341748388647482, guid: e4c1e0e8fac0ce4458b7201de0b97ab0,
+    - target: {fileID: 3369644634233804551, guid: e4c1e0e8fac0ce4458b7201de0b97ab0,
         type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.03
+      propertyPath: refireTime
+      value: 0.1
       objectReference: {fileID: 0}
     - target: {fileID: 6765124516122316298, guid: e4c1e0e8fac0ce4458b7201de0b97ab0,
         type: 3}
       propertyPath: m_Name
       value: Turret
       objectReference: {fileID: 0}
-    - target: {fileID: 6990567004832337810, guid: e4c1e0e8fac0ce4458b7201de0b97ab0,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.03
-      objectReference: {fileID: 0}
     - target: {fileID: 7762469901781384217, guid: e4c1e0e8fac0ce4458b7201de0b97ab0,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.36
+      value: 2.0505576
       objectReference: {fileID: 0}
     - target: {fileID: 7762469901781384217, guid: e4c1e0e8fac0ce4458b7201de0b97ab0,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.22
+      value: -0.78
       objectReference: {fileID: 0}
     - target: {fileID: 7762469901781384217, guid: e4c1e0e8fac0ce4458b7201de0b97ab0,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -1.05
+      value: 0.6555946
       objectReference: {fileID: 0}
     - target: {fileID: 7762469901781384217, guid: e4c1e0e8fac0ce4458b7201de0b97ab0,
         type: 3}
@@ -526,7 +521,7 @@ PrefabInstance:
     - target: {fileID: 7762469901781384217, guid: e4c1e0e8fac0ce4458b7201de0b97ab0,
         type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 7762469901781384217, guid: e4c1e0e8fac0ce4458b7201de0b97ab0,
         type: 3}
