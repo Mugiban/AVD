@@ -10,11 +10,18 @@ public class NPCMovement : MonoBehaviour
     private Rigidbody rb;
     private Animator anim;
 
+    public TimelineController timelineController;
+
     private void Awake()
     {
         navMesh = GetComponent<NavMeshAgent>();
         rb = GetComponent<Rigidbody>();
         anim = GetComponentInChildren<Animator>();
+    }
+
+    private void Start()
+    {
+        timelineController = FindObjectOfType<TimelineController>();
     }
 
     private void Update()
@@ -39,5 +46,13 @@ public class NPCMovement : MonoBehaviour
     {
         anim.SetBool("moving", true);
         navMesh.SetDestination(position);
+    }
+
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.CompareTag("Disco"))
+        {
+            timelineController.Play();
+        }
     }
 }

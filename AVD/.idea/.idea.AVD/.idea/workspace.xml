@@ -6,8 +6,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AVD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AVD/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ADV/Animation/Characters/Character.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ADV/Animation/Characters/Character.controller" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ADV/Scenes/NavMeshCinemachine.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ADV/Scenes/NavMeshCinemachine.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/NavMeshAreas.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/NavMeshAreas.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.probuilder/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.probuilder/Settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ADV/Scripts/NavMeshScene/NPCMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ADV/Scripts/NavMeshScene/NPCMovement.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,15 +18,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/ADV/Turret/TurretShot.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ADV/Turret/Turret.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ADV/Scripts/PlayerController2D.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/ADV/Turret/TurretSpawner.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ADV/Scripts/PickUp.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ADV/Scripts/PointsUI.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/ADV/Scripts/NavMeshScene/NPCMovement.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/ADV/Scripts/CharacterController2D.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ADV/Scripts/Projectile.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ADV/Turret/TurretShot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ADV/Turret/TurretSpawner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ADV/Scripts/NavMeshScene/NPCMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ADV/Scripts/TimelineController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ADV/Scripts/CharacterController2D.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ADV/Scripts/PlayerShooter2D.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ADV/Scripts/PlayMusicOnStart.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ADV/Scripts/PlayButton.cs" root0="FORCE_HIGHLIGHTING" />
@@ -46,6 +47,7 @@
         <option value="$PROJECT_DIR$/Assets/ADV/Turret/TurretSpawner.cs" />
         <option value="$PROJECT_DIR$/Assets/ADV/Turret/TurretShot.cs" />
         <option value="$PROJECT_DIR$/Assets/ADV/Turret/Turret.cs" />
+        <option value="$PROJECT_DIR$/Assets/ADV/Scripts/TimelineController.cs" />
         <option value="$PROJECT_DIR$/Assets/ADV/Scripts/NavMeshScene/NPCMovement.cs" />
       </list>
     </option>
@@ -105,7 +107,8 @@
       <workItem from="1582300779673" duration="6320000" />
       <workItem from="1583516387274" duration="2832000" />
       <workItem from="1583937169729" duration="1453000" />
-      <workItem from="1585147585676" duration="1628000" />
+      <workItem from="1585147585676" duration="2361000" />
+      <workItem from="1585331698278" duration="891000" />
     </task>
     <servers />
   </component>
