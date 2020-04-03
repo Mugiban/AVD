@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\delga_zkl\.Rider2019.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\delga_zkl\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_AVD.-1709843080.00" t="ExcludeRecursive" />
-    <e p="D:\Unity Projects\AVD\AVD" t="IncludeRecursive">
+    <e p="C:\Users\delga\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\delga\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_AVD.-430247216.00" t="ExcludeRecursive" />
+    <e p="D:\Proyectos Unity\AVD\AVD" t="IncludeRecursive">
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="ADV" t="Include">
+          <e p="Chest" t="Include">
+            <e p="Chest.cs" t="Include" />
+          </e>
           <e p="Scripts" t="Include">
             <e p="CharacterController2D.cs" t="Include" />
             <e p="NavMeshScene" t="Include">
