@@ -8,7 +8,7 @@ public class NPCMovement : MonoBehaviour
 {
     private NavMeshAgent navMesh;
     private Rigidbody rb;
-    private Animator anim;
+    [SerializeField] private Animator anim;
 
     public TimelineController timelineController;
 
@@ -16,7 +16,6 @@ public class NPCMovement : MonoBehaviour
     {
         navMesh = GetComponent<NavMeshAgent>();
         rb = GetComponent<Rigidbody>();
-        anim = GetComponentInChildren<Animator>();
     }
 
     private void Start()

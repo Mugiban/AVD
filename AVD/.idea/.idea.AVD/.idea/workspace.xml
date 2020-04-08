@@ -49,8 +49,8 @@
         <option value="$PROJECT_DIR$/Assets/ADV/Turret/TurretShot.cs" />
         <option value="$PROJECT_DIR$/Assets/ADV/Turret/Turret.cs" />
         <option value="$PROJECT_DIR$/Assets/ADV/Scripts/TimelineController.cs" />
-        <option value="$PROJECT_DIR$/Assets/ADV/Scripts/NavMeshScene/NPCMovement.cs" />
         <option value="$PROJECT_DIR$/Assets/ADV/Chest/Chest.cs" />
+        <option value="$PROJECT_DIR$/Assets/ADV/Scripts/NavMeshScene/NPCMovement.cs" />
       </list>
     </option>
   </component>
@@ -114,7 +114,8 @@
       <workItem from="1583937169729" duration="1453000" />
       <workItem from="1585147585676" duration="2361000" />
       <workItem from="1585331698278" duration="891000" />
-      <workItem from="1585948081137" duration="967000" />
+      <workItem from="1585948081137" duration="1075000" />
+      <workItem from="1586354241673" duration="654000" />
     </task>
     <servers />
   </component>
