@@ -19,6 +19,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/ADV/Turret/TurretShot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/LoadOnFinishCinematic.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ADV/Scripts/CharacterController2D.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ADV/Scripts/PointsUI.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ADV/Scripts/PlayButton.cs" root0="FORCE_HIGHLIGHTING" />
@@ -51,10 +52,11 @@
         <option value="$PROJECT_DIR$/Assets/ADV/Turret/TurretShot.cs" />
         <option value="$PROJECT_DIR$/Assets/ADV/Turret/Turret.cs" />
         <option value="$PROJECT_DIR$/Assets/ADV/Scripts/TimelineController.cs" />
-        <option value="$PROJECT_DIR$/Assets/ADV/Chest/Chest.cs" />
-        <option value="$PROJECT_DIR$/Assets/ADV/Scripts/NavMeshScene/NPCMovement.cs" />
         <option value="$PROJECT_DIR$/Assets/EntregaFinal/Scripts/BackButton.cs" />
         <option value="$PROJECT_DIR$/Assets/EntregaFinal/Scripts/MainMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/LoadOnFinishCinematic.cs" />
+        <option value="$PROJECT_DIR$/Assets/ADV/Scripts/NavMeshScene/NPCMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/ADV/Chest/Chest.cs" />
       </list>
     </option>
   </component>
@@ -120,7 +122,8 @@
       <workItem from="1585331698278" duration="891000" />
       <workItem from="1585948081137" duration="1075000" />
       <workItem from="1586354241673" duration="654000" />
-      <workItem from="1587338456629" duration="2123000" />
+      <workItem from="1587338456629" duration="2577000" />
+      <workItem from="1587397959468" duration="2277000" />
     </task>
     <servers />
   </component>

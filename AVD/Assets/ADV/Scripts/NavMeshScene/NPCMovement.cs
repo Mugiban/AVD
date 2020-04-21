@@ -9,27 +9,22 @@ public class NPCMovement : MonoBehaviour
     private NavMeshAgent navMesh;
     private Rigidbody rb;
     [SerializeField] private Animator anim;
-
-    public TimelineController timelineController;
-
+    
     private void Awake()
     {
         navMesh = GetComponent<NavMeshAgent>();
         rb = GetComponent<Rigidbody>();
     }
-
-    private void Start()
-    {
-        timelineController = FindObjectOfType<TimelineController>();
-    }
-
     private void Update()
     {
         var ray = Camera.main.ScreenPointToRay(Input.mousePosition);
+        
+        
         if (Physics.Raycast(ray, out var hitInfo))
         {
             if (Input.GetMouseButtonDown(0))
             {
+                
                 MoveToPosition(hitInfo.point);
             }
         }
@@ -47,11 +42,4 @@ public class NPCMovement : MonoBehaviour
         navMesh.SetDestination(position);
     }
 
-    private void OnTriggerEnter(Collider other)
-    {
-        if (other.CompareTag("Disco"))
-        {
-            timelineController.Play();
-        }
-    }
 }

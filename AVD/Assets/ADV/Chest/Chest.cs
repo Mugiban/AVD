@@ -23,11 +23,11 @@ public class Chest : MonoBehaviour
             stayTimer = 0;
         }
     }
-
     private void OnTriggerStay(Collider other)
     {
         if (other.gameObject.CompareTag("Player"))
         {
+            
             stayTimer += Time.deltaTime;
             if (stayTimer >= stayTime)
             {

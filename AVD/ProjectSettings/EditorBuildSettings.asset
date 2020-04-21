@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/EntregaFinal/Scenes/CinematicScene.unity
     guid: 2b9956e09c091614ebddc34ec8911854
+  - enabled: 1
+    path: Assets/EntregaFinal/Scenes/PlayableScene.unity
+    guid: 7fa611a0dc7fdfb4496c9ac0608da029
   m_configObjects: {}
