@@ -8,6 +8,6 @@ public class LoadOnFinishCinematic : MonoBehaviour
 {
     private void OnEnable()
     {
-        SceneManager.LoadSceneAsync("PlayableScene");
+        SceneManager.LoadSceneAsync("PlayScene");
     }
 }

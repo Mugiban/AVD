@@ -31,6 +31,7 @@
             <e p="TurretSpawner.cs" t="Include" />
           </e>
         </e>
+        <e p="ButtonBehaviour.cs" t="Include" />
         <e p="Creator Kit - Beginner Code" t="Include">
           <e p="Art" t="Include">
             <e p="Fonts" t="Include">

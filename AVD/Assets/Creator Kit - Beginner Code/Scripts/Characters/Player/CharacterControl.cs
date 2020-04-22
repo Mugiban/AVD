@@ -26,7 +26,7 @@ namespace CreatorKitCodeInternal {
         public AudioClip[] SpurSoundClips;
     
         Vector3 m_LastRaycastResult;
-        Animator m_Animator;
+        [SerializeField] Animator m_Animator;
         NavMeshAgent m_Agent;
         CharacterData m_CharacterData;
 
@@ -85,7 +85,6 @@ namespace CreatorKitCodeInternal {
             m_CalculatedPath = new NavMeshPath();
         
             m_Agent = GetComponent<NavMeshAgent>();
-            m_Animator = GetComponentInChildren<Animator>();
         
             m_Agent.speed = Speed;
             m_Agent.angularSpeed = 360.0f;

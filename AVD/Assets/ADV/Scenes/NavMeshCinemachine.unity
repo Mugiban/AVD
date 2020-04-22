@@ -1399,8 +1399,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1194696780}
-  m_LocalRotation: {x: -0.24807186, y: 0.047476616, z: -0.012173526, w: -0.967501}
-  m_LocalPosition: {x: 7.216947, y: 4.1792116, z: -7.1058054}
+  m_LocalRotation: {x: -0.22452378, y: 0.41416043, z: -0.10619277, w: -0.8756617}
+  m_LocalPosition: {x: 6.359461, y: 4.187639, z: -6.976213}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1990180253}
@@ -1715,8 +1715,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1513928527}
-  m_LocalRotation: {x: -0.24807186, y: 0.047476616, z: -0.012173526, w: -0.967501}
-  m_LocalPosition: {x: 7.216947, y: 4.1792116, z: -7.1058054}
+  m_LocalRotation: {x: -0.22452378, y: 0.41416043, z: -0.10619277, w: -0.8756617}
+  m_LocalPosition: {x: 6.359461, y: 4.187639, z: -6.976213}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -9633,6 +9633,31 @@ PrefabInstance:
       propertyPath: m_Name
       value: TreasureChest
       objectReference: {fileID: 0}
+    - target: {fileID: 6274418169887033122, guid: b87c7b72b20c75042afd1f553890732c,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.13069414
+      objectReference: {fileID: 0}
+    - target: {fileID: 6274418169887033122, guid: b87c7b72b20c75042afd1f553890732c,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.63390183
+      objectReference: {fileID: 0}
+    - target: {fileID: 6274418169887033122, guid: b87c7b72b20c75042afd1f553890732c,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.1098278
+      objectReference: {fileID: 0}
+    - target: {fileID: 6274418169887033122, guid: b87c7b72b20c75042afd1f553890732c,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7543377
+      objectReference: {fileID: 0}
+    - target: {fileID: 6274418171521730408, guid: b87c7b72b20c75042afd1f553890732c,
+        type: 3}
+      propertyPath: m_SceneBindings.Array.size
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 6274418171521730408, guid: b87c7b72b20c75042afd1f553890732c,
         type: 3}
       propertyPath: m_SceneBindings.Array.data[2].value
@@ -9643,5 +9668,11 @@ PrefabInstance:
       propertyPath: m_SceneBindings.Array.data[5].value
       value: 
       objectReference: {fileID: 1911878613}
+    - target: {fileID: 6274418171521730408, guid: b87c7b72b20c75042afd1f553890732c,
+        type: 3}
+      propertyPath: m_SceneBindings.Array.data[6].key
+      value: 
+      objectReference: {fileID: 1363002010928026816, guid: ecde7026bff7d324db7d0a02e92450ca,
+        type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b87c7b72b20c75042afd1f553890732c, type: 3}
